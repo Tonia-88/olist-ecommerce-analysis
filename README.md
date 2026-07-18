@@ -6,7 +6,7 @@
 
 [查看 Tableau Public 可视化作品](https://public.tableau.com/app/profile/tonia.tan/viz/olist_ecommerce_analysis_17843408102550/sheet9)
 
-![Olist 电商销售与履约分析仪表板](screenshots/olist_dashboard.png)
+![Olist 电商销售与履约分析仪表板](olist_dashboard.png)
 
 ## 数据来源
 
